@@ -20,7 +20,7 @@ function App() {
         }}
       >
         <UserCard
-          name="John Doe"
+          name="Vinay"
           image="https://minio-test-dlxb.mifix.io/dlxb-uat-public/iconBoy.png"
         />
       </div>
@@ -37,7 +37,7 @@ function Header() {
         marginTop: "20px",
       }}
     >
-      <h2> Yeno Boli Magne</h2>
+      <h2>Mr.Project Manager</h2>
     </div>
   );
 }
